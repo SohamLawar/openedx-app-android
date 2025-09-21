@@ -66,8 +66,8 @@ BRANCH:
   ALTERNATE_HOST: ''
 
 #Platform names
-PLATFORM_NAME: "OpenEdX"
-PLATFORM_FULL_NAME: "OpenEdX"
+PLATFORM_NAME: "Exams55"
+PLATFORM_FULL_NAME: "Exams55"
 #App sourceSets dir
 THEME_DIRECTORY: "openedx"
 #tokenType enum accepts JWT and BEARER only
