@@ -1,10 +1,11 @@
-API_HOST_URL: 'http://localhost:8000'
+API_HOST_URL: 'https://edtech.dedyn.io'
 APPLICATION_ID: 'org.openedx.app'
 ENVIRONMENT_DISPLAY_NAME: 'Localhost'
 URI_SCHEME: ''
 FEEDBACK_EMAIL_ADDRESS: 'support@example.com'
 FAQ_URL: ''
-OAUTH_CLIENT_ID: 'OAUTH_CLIENT_ID'
+OAUTH_CLIENT_ID: 'androidedtech'
+
 
 # Keep empty to hide setting
 AGREEMENT_URLS:

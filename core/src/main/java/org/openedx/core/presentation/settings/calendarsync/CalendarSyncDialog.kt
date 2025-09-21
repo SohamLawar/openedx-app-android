@@ -221,7 +221,7 @@ private fun CalendarSyncDialogsPreview(
     OpenEdXTheme {
         CalendarSyncDialog(
             syncDialogType = dialogType,
-            calendarTitle = "Hello to OpenEdx",
+            calendarTitle = "Hello to Exams55",
             syncDialogPosAction = {},
             syncDialogNegAction = {},
             dismissSyncDialog = {},

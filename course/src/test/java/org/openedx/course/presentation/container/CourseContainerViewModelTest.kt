@@ -70,7 +70,7 @@ class CourseContainerViewModelTest {
     private val courseApi = mockk<CourseApi>()
     private val calendarSyncScheduler = mockk<CalendarSyncScheduler>()
 
-    private val openEdx = "OpenEdx"
+    private val openEdx = "Exams55"
     private val noInternet = "Slow or no internet connection"
     private val somethingWrong = "Something went wrong"
 
